@@ -1,0 +1,1 @@
+# Samsung-NP550P5C-S02IN
