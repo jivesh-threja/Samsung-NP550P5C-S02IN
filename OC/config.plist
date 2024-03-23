@@ -267,13 +267,17 @@
 			<dict>
 				<key>AAPL,ig-platform-id</key>
 				<data>BABmAQ==</data>
-				<key>framebuffer-patch-enable</key>
-				<integer>1</integer>
-				<key>framebuffer-memorycount</key>
-				<integer>2</integer>
+				<key>device-id</key>
+				<data>ZgEAAA==</data>
 				<key>framebuffer-con1-alldata</key>
 				<data>AgUAAAAEAAAHBAAAAwQAAAAEAACBAAAABAYAAAAEAACBAAAA</data>
 				<key>framebuffer-con1-enable</key>
+				<integer>1</integer>
+				<key>framebuffer-con1-type</key>
+				<data>AAgAAA==</data>
+				<key>framebuffer-memorycount</key>
+				<integer>2</integer>
+				<key>framebuffer-patch-enable</key>
 				<integer>1</integer>
 				<key>framebuffer-pipecount</key>
 				<integer>2</integer>
@@ -281,10 +285,6 @@
 				<integer>4</integer>
 				<key>framebuffer-stolenmem</key>
 				<data>AAAABA==</data>
-				<key>framebuffer-con1-type</key>
-				<data>AAgAAA==</data>
-				<key>device-id</key>
-				<data>ZgEAAA==</data>
 			</dict>
 			<key>PciRoot(0x0)/Pci(0x1B,0x0)</key>
 			<dict>
@@ -1389,9 +1389,9 @@
 			<key>SystemProductName</key>
 			<string>MacBookPro11,2</string>
 			<key>SystemSerialNumber</key>
-			<string>C02NT4YMG86R</string>
+			<string>ChangeIt</string>
 			<key>SystemUUID</key>
-			<string>C6A815C4-C9CA-4F6B-91D5-B87CE071D378</string>
+			<string>ChangeIt</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
